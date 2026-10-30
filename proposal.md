@@ -189,7 +189,7 @@ Nama anggota dan penanggung jawab setiap tugas akan ditentukan berdasarkan kesep
 
 Nama repository: `proyek-akhir-analisis-nilai`
 
-URL repository: [Isi dengan URL repository GitHub kelompok setelah dibuat]
+URL repository: https://github.com/Maugyu/proyek-akhir-Maulyditha-Revania-Aprilliyanti-Kelompok-3.git
 
 Repository digunakan untuk menyimpan proposal, dokumentasi, struktur program, test case, dan perkembangan implementasi. Setiap perubahan penting dicatat melalui commit agar perkembangan pekerjaan dapat ditelusuri.
 
